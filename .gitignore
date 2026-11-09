@@ -1,0 +1,4 @@
+.worktrees/
+**/.obsidian/
+*.canvas
+.lint-report.md
